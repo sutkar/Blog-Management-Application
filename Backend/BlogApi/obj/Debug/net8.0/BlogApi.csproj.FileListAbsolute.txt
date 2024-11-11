@@ -33,4 +33,3 @@ C:\Users\ASUS\source\repos\Blog Management App\Blog-Management-Application\Backe
 C:\Users\ASUS\source\repos\Blog Management App\Blog-Management-Application\Backend\BlogApi\obj\Debug\net8.0\ref\BlogApi.dll
 C:\Users\ASUS\source\repos\Blog Management App\Blog-Management-Application\Backend\BlogApi\bin\Debug\net8.0\DB\data.json
 C:\Users\ASUS\source\repos\Blog Management App\Blog-Management-Application\Backend\BlogApi\bin\Debug\net8.0\Newtonsoft.Json.dll
-C:\Users\ASUS\source\repos\Blog Management App\Blog-Management-Application\Backend\BlogApi\bin\Debug\net8.0\data.json
